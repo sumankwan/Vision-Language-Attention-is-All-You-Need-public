@@ -12,7 +12,7 @@
 
 ---
 
-## 🎓 Capstone Project: Deep Learning and Multimodal AI for TikTok in E-Commerce in Indonesia
+## 🎓 Capstone Project: Deep Learning and Multimodal AI for TikTok Video for E-Commerce in Indonesia
 
 This project aims to develop an AI-driven system for recommending and generating product videos for e-commerce, leveraging advances in generative AI and large language models. Focused on the Indonesian market, it addresses the challenge of content curation in digital marketing by automating video recommendations and enhancements.
 
