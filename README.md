@@ -22,7 +22,7 @@ In this paper, we propose VIDIA (Vision-Language Digital Agent), VIDIA operates 
 
 ## 🚀 Getting Started
 
-These instructions will get your copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get your copy of the project up and running on your local machine or Google Colab for development and testing purposes.
 
 ### 📋 Prerequisites
 
