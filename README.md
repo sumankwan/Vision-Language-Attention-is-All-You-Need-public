@@ -37,8 +37,8 @@ These instructions will get your copy of the project up and running on your loca
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/sumankwan/Vision-Language-Attention-is-All-You-Need.git
-   cd Vision-Language-Attention-is-All-You-Need
+   git clone https://github.com/sumankwan/Vision-Language-Attention-is-All-You-Need-public.git
+   cd Vision-Language-Attention-is-All-You-Need-public
    ```
 
 2. **Set Up a Virtual Environment** (optional)
@@ -119,11 +119,15 @@ You can interact with the system using the provided Telegram bot:
 
 ## 🔧 Development Notes
 
-- **Data Collection**: YouTube API is used to gather video content relevant to the Indonesian e-commerce market, focusing on collecting a diverse array of product videos with different categories. The multimodal_AI_pipeline.ipynb notebook is our data pipeline leverages multiagent multimodal AI system for invideo understanding.
+- **Data Collection**: YouTube API is used to gather video content relevant to the Indonesian e-commerce market, focusing on collecting a diverse array of product videos with different categories. The multimodal_AI_pipeline.ipynb notebook is our data pipeline that leverages multiagent multimodal AI system for video understanding.
 - **Cost**: Handling video data is computationally demanding, including its analysis using large foundational models
 - **Future Direction**: Future plans involve incorporating multiple smaller models like Llama-3 to improve multi-agent collaborations
 
 ## 🙏 Acknowledgments
+
+Radford, A., Kim, J. W., Hallacy, C., Ramesh, A., Goh, G., Agarwal, S., Sastry, G., Askell, A., Mishkin, P., Clark, J., Krueger, G., & Sutskever, I. (2021). Learning Transferable Visual Models From Natural Language Supervision. arXiv preprint arXiv:2103.00020. Retrieved from https://arxiv.org/abs/2103.00020
+
+Jin, Y., Wu, C.-F., Brooks, D., & Wei, G.-Y. (2023). S3: Increasing GPU Utilization during Generative Inference for Higher Throughput. arXiv preprint arXiv:2306.06000. Retrieved from https://arxiv.org/abs/2306.06000
 
 Zhu, Z., Feng, X., Chen, D., Yuan, J., Qiao, C., & Hua, G. (2024). Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation. arXiv. 
 https://arxiv.org/abs/2403.12042
@@ -174,14 +178,23 @@ Yang, D., Hu, L.*, Tian, Y.*, Li, Z., Kelly, C., Yang, B., Yang, C., & Zou, Y. (
 
 Wang, Y., Li, K., Li, X., Yu, J., He, Y., Chen, G., Pei, B., Zheng, R., Xu, J., Wang, Z., Shi, Y., Jiang, T., Li, S., Zhang, H., Huang, Y., Qiao, Y., Wang, Y., & Wang, L. (2024, March 22). InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding. arXiv:2403.15377 [cs.CV]. https://arxiv.org/abs/2403.15377
 Chan, S. H. (2024). Tutorial on diffusion models for imaging and vision. arXiv:2403.18103 [cs.LG]. https://doi.org/10.48550/arXiv.2403.18103
+
 Li, C., Huang, D., Lu, Z., Xiao, Y., Pei, Q., & Bai, L. (2024). A survey on long video generation: Challenges, methods, and prospects. arXiv:2403.16407 [cs.CV]. https://doi.org/10.48550/arXiv.2403.16407
-Lian, J., Lei, Y., Huang, X., Yao, J., Xu, W., & Xie, X. (2024). RecAI: Leveraging large language models for next-generation recommender systems. arXiv:2403.06465 [cs.IR]. https://doi.org/10.48550/arXiv.2403.06465
 
-https://arxiv.org/html/2403.16407v1
-1.	RecAI: Leveraging Large Language Models for Next-Generation Recommender Systems
+Shahmohammadi, H., Ghosh, A., & Lensch, H. P. A. (2023). ViPE: Visualise Pretty-much Everything. arXiv preprint arXiv:2310.10543. Retrieved from https://arxiv.org/abs/2310.10543
 
+Lian, J., Lei, Y., Huang, X., Yao, J., Xu, W., & Xie, X. (2024). RecAI: Leveraging Large Language Models for Next-Generation Recommender Systems. arXiv preprint arXiv:2403.06465. Retrieved from https://arxiv.org/abs/2403.06465
 
-- Mention any contributors, datasets used, or third-party resources that have been instrumental in the project development.
+Zhou, X., Arnab, A., Buch, S., Yan, S., Myers, A., Xiong, X., ... & Schmid, C. (2024). Streaming Dense Video Captioning. arXiv preprint arXiv:2404.01297. Retrieved from https://arxiv.org/abs/2404.01297
+
+Liu, R., Li, C., Tang, H., Ge, Y., Shan, Y., & Li, G. (2024). ST-LLM: Large Language Models Are Effective Temporal Learners. arXiv preprint arXiv:2404.00308. Retrieved from https://arxiv.org/abs/2404.00308
+
+Wu, B., Chuang, C.-Y., Wang, X., Jia, Y., Krishnakumar, K., Xiao, T., Liang, F., Yu, L., & Vajda, P. (2023). Fairy: Fast Parallelized Instruction-Guided Video-to-Video Synthesis. arXiv preprint arXiv:xxxx.xxxxx. Project website available at [URL provided in your document]
+
+Wu, J., Li, X., Si, C., Zhou, S., Yang, J., Zhang, J., Li, Y., Chen, K., Tong, Y., Liu, Z., & Loy, C. C. (2024). Towards Language-Driven Video Inpainting via Multimodal Large Language Models. arXiv preprint arXiv:2401.10226. Retrieved from https://arxiv.org/abs/2401.10226
+
+Ding, K., Zhang, H., Yu, Q., Wang, Y., Xiang, S., & Pan, C. (2024). Weak distribution detectors lead to stronger generalizability of vision-language prompt tuning. arXiv:2404.00603 [cs.CV]. https://doi.org/10.48550/arXiv.2404.00603
+
 
 ## 👨‍💻 Author
 
