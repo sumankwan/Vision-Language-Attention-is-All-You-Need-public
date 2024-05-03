@@ -198,5 +198,5 @@ Ding, K., Zhang, H., Yu, Q., Wang, Y., Xiang, S., & Pan, C. (2024). Weak distrib
 
 ## 👨‍💻 Author
 
-[Suhardiman Agung](https://github.com/yourusername) - sumankuan@gmail.com / suhardimana.2022@mitb.smu.edu.sg
+By: Suhardiman Agung with the guidance from Professor Daniel Lin
 ```
