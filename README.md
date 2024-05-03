@@ -115,7 +115,7 @@ python main.py
 
 You can interact with the system using the provided Telegram bot:
 
-[VideoTikTokShopBot](https://t.me/Vidia-AI)
+[VideoTikTokShopBot](https://t.me/VideoTikTokShopBot)
 
 ## 🔧 Development Notes
 
