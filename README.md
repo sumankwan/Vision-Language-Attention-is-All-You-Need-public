@@ -177,6 +177,7 @@ Jiang, A. Q., Sablayrolles, A., Mensch, A., Bamford, C., Chaplot, D. S., de las 
 Yang, D., Hu, L.*, Tian, Y.*, Li, Z., Kelly, C., Yang, B., Yang, C., & Zou, Y. (2024). WorldGPT: A Sora-Inspired Video AI Agent as Rich World Models from Text and Image Inputs. arXiv. https://arxiv.org/abs/2403.07944
 
 Wang, Y., Li, K., Li, X., Yu, J., He, Y., Chen, G., Pei, B., Zheng, R., Xu, J., Wang, Z., Shi, Y., Jiang, T., Li, S., Zhang, H., Huang, Y., Qiao, Y., Wang, Y., & Wang, L. (2024, March 22). InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding. arXiv:2403.15377 [cs.CV]. https://arxiv.org/abs/2403.15377
+
 Chan, S. H. (2024). Tutorial on diffusion models for imaging and vision. arXiv:2403.18103 [cs.LG]. https://doi.org/10.48550/arXiv.2403.18103
 
 Li, C., Huang, D., Lu, Z., Xiao, Y., Pei, Q., & Bai, L. (2024). A survey on long video generation: Challenges, methods, and prospects. arXiv:2403.16407 [cs.CV]. https://doi.org/10.48550/arXiv.2403.16407
